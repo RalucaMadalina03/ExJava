@@ -52,6 +52,15 @@ F
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-:
-
-ExJava.iml,0\a\0a6bb28f127afd2b2fd31a375ac292d36d75f965
+F
+Sesion18/src/Main.java,d\f\dfe719e1c1c6e9b99b1dea1480027a777a7def47
+H
+Sesion18/src/anonim.java,e\c\ec07662c90384df90a9bed9be2f7d2ae2607a0db
+F
+Sesion18/src/Book.java,a\f\afd17fadb1423cde06b5ab3914715a5bc08b867c
+M
+Sesion18/src/anonim/Main.java,8\b\8b46d9837e2ddbe642f47ca532b01760d7d966fd
+b
+2Sesion18/src/Functional/MyFunctionalInterface.java,b\0\b0895602ca5577377c0624d6247cd5595d4f887f
+Q
+!Sesion18/src/Functional/Main.java,2\5\25815fd76f827fa223f3291aa421c593e2d4e27f
